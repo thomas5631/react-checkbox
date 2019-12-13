@@ -15,7 +15,7 @@ export class ExampleApp extends React.Component {
             checked={this.state.checked}
             onChange={this.handleCheckboxChange}
           />
-          <span>Label Text</span>
+          <span>Label int Text</span>
         </label>
       </div>
     );
